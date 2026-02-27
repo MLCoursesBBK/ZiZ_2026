@@ -8,6 +8,8 @@ Repository for the course "Introduction to Machine Learning" 2026 (online / Fran
 
 ## Interactive Notebooks
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/ZiZ_2026/blob/main/Interpretability_Explainability.ipynb) Interpretability and Explainability
+
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/ZiZ_2026/blob/main/Interpretability_Explainability_and_Causal_Inference.ipynb) Interpretability Explainability and Causal Inference
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/ZiZ_2026/blob/main/Anomaly_Detection.ipynb) Anomaly Detection
