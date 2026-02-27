@@ -8,10 +8,7 @@ Repository for the course "Introduction to Machine Learning" 2025 (online / Mexi
 
 ## Instructions
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/ZiZ_2026/blob/main/Interpretability_Explainability_and_Causal_Inference.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/ZiZ_2026/blob/main/Interpretability_Explainability_and_Causal_Inference.ipynb) - Interpretability Explainability and Causal Inference
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/ZiZ_2026/blob/main/Natural_Language_Processing.ipynb.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/ZiZ_2026/blob/main/Natural_Language_Processing.ipynb.ipynb) - Natural Language Processing
 
-Go to Google Colab: https://colab.research.google.com/
-
-Open the notebooks from this course's GitHub Repository by pasting their URL into google Colab
